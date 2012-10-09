@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.bornski.hadoop</groupId>
+  <artifactId>SplitOutputFormat</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121009.184522</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20121009184522</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20121009.184522-3</value>
+        <updated>20121009184522</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20121009.184522-3</value>
+        <updated>20121009184522</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

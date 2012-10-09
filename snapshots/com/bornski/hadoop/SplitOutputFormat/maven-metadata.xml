@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bornski.hadoop</groupId>
+  <artifactId>SplitOutputFormat</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121009184522</lastUpdated>
+  </versioning>
+</metadata>
